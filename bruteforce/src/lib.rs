@@ -2,7 +2,6 @@
 
 #![crate_name = "bruteforce"]
 #![feature(
-    const_fn,
     test,
     generators,
     generator_trait,
